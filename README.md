@@ -1,6 +1,6 @@
 ### Colby Maxwell
 
-Solutions and forward-deployed engineering. I build AI systems that have to be right in public.
+Solutions and forward-deployed engineering. I build and ship AI products end to end, from the data pipeline to the checks that keep the output accurate.
 
 **[Oravan](https://oravan.org)** · [code](https://github.com/cm2489/oravan)  
 A free, nonpartisan guide to Congress in English and Spanish: find your members, read active bills in plain language, and make the call.
